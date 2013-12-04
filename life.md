@@ -17,7 +17,7 @@
 - 10/2009-~ Owner Tiny Dragon Apps, LLC
 - 11/2009-05/2010 IT Manager - GasDay
 - 05/2010-09/2010 Software Developer - Tesch Global
-- 05/08/2010-~ Dating Erin Barth
+- 05/10/2010-~ Dating Erin Barth
 - 06/2012-09/2013 Mobile Application Developer - GoKart Labs, LLC
 - 16/09/2013-~ Software Engineer - Software for Good
 
