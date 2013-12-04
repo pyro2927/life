@@ -2,6 +2,7 @@
 ===============
 
 - 06/01/1988 Born
+- 08/1994-06/2002 Elementary School - Montini Middle School
 - 08/2002-06/2006 High School - Marian Central Catholic
 - 08/2002-06/2004 Fencing @ Marian Central
 - ~2006 First laptop (Dell XPS M1705)
