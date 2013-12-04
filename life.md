@@ -5,6 +5,7 @@
 - ~2006 First laptop (Dell XPS M1705)
 - 08/2006-08/2010 University - Computer Engineering at Marquette
 - 09/2007-05/2008 - IT Support - GasDay
+- 25/12/2007 First iPhone
 - 05/2008-08/2008 - Desktop Support - Centegra Health System
 - 09/2008-06/2009 - Desktop Support - Harley-Davidson
 - 11/2008 Released Reddit iOS App
