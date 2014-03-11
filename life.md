@@ -23,4 +23,6 @@
 - 06/2012-09/2013 Mobile Application Developer - GoKart Labs, LLC
 - 11/06/2012 Bought 45th Anniversary Edition 2012 Chevrolet Camaro
 - 16/09/2013-~ Software Engineer - Software for Good
+- 20/06/2013 Bought 2004 Honda VFR 800
+- 15/08/2013 Crashed & Totalled Honda VFR
 
