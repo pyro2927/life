@@ -11,6 +11,7 @@
 - 25/12/2007 First iPhone
 - 05/2008-08/2008 Desktop Support - Centegra Health System
 - 09/2008-06/2009 Desktop Support - Harley-Davidson
+- 10/2008 Bought first motorcycle, 1988 Honda Hawk 650
 - 11/2008 Released Reddit iOS App
 - 04/12/2008 First tweet
 - 08/2009-06/2012 Software Developer - Core-Apps, LLC
@@ -18,6 +19,8 @@
 - 11/2009-05/2010 IT Manager - GasDay
 - 05/2010-09/2010 Software Developer - Tesch Global
 - 05/10/2010-~ Dating Erin Barth
+- 03/2011 Bought first car, 2004 Chevy Colorado
 - 06/2012-09/2013 Mobile Application Developer - GoKart Labs, LLC
+- 11/06/2012 Bought 45th Anniversary Edition 2012 Chevrolet Camaro
 - 16/09/2013-~ Software Engineer - Software for Good
 
