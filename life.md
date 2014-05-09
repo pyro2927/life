@@ -14,6 +14,7 @@
 - 10/2008 Bought first motorcycle, 1988 Honda Hawk 650
 - 11/2008 Released Reddit iOS App
 - 04/12/2008 First tweet
+- 20/01/2009 First tattoo
 - 08/2009-06/2012 Software Developer - Core-Apps, LLC
 - 10/2009-~ Owner Tiny Dragon Apps, LLC
 - 11/2009-05/2010 IT Manager - GasDay
@@ -26,3 +27,4 @@
 - 15/08/2013 Crashed & Totalled Honda VFR
 - 16/09/2013-~ Software Engineer - Software for Good
 - 12/03/2014 Bought first house, 5440 25th Ave S.
+- 23/04/2014 Second tattoo
