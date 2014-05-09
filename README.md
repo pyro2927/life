@@ -28,8 +28,16 @@ How to setup your own *Life*
 2. `git checkout -b gh-pages` (or any branch name you like)
 3. Make a copy of `life.example.md`, rename it to `life.md`.
 4. Add your life events into `life.md`.
-5. Commit `life.md` (not in `master` branch).
-6. `git push origin gh-pages` and publish to [GitHub Pages](http://pages.github.com/).
+5. Preview it on a local server. Use [`python -m SimpleHTTPServer`](http://docs.python.org/2/library/simplehttpserver.html) or [`http-server`](https://github.com/nodeapps/http-server).
+6. Commit `life.md` (not in `master` branch).
+7. `git push origin gh-pages -f` and publish to [GitHub Pages](http://pages.github.com/).
+8. Update the website link in your GitHub repo description.
+9. Tell the world about your Life.
+10. Add your Life to the [Lives](https://github.com/cheeaun/life/wiki/Lives) page.
+
+Use [Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=Life&utm_medium=hackonnitrous) to create your own *Life* in seconds:
+
+[![Hack cheeaun/life on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=cheeaun%2Flife&file_to_open=README)
 
 How to upgrade your *Life*
 --------------------------
@@ -59,6 +67,7 @@ The configuration:
 
 - `customStylesheetURL` - (*string*, default to `null`) Path to a custom stylesheet file, for those who doesn't like the default *theme*.
 - `yearLength` - (*number*, default to `120`) The width of the year grids, in pixels.
+- `hideAge` - (*boolean*, default to `false`) Option to hide age from year axis.
 
 Datetime "syntax"
 -----------------
