@@ -28,3 +28,4 @@
 - 16/09/2013-~ Software Engineer - Software for Good
 - 12/03/2014 Bought first house, 5440 25th Ave S.
 - 23/04/2014 Second tattoo
+- 19/06/2014 First basement flood
