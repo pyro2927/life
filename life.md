@@ -11,7 +11,7 @@
 - 25/12/2007 First iPhone
 - 05/2008-08/2008 Desktop Support - Centegra Health System
 - 09/2008-06/2009 Desktop Support - Harley-Davidson
-- 10/2008 Bought first motorcycle, 1988 Honda Hawk 650
+- 01/10/2008 Bought first motorcycle, 1988 Honda Hawk 650
 - 11/2008 Released Reddit iOS App
 - 04/12/2008 First tweet
 - 20/01/2009 First tattoo
