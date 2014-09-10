@@ -29,3 +29,4 @@
 - 12/03/2014 Bought first house, 5440 25th Ave S.
 - 23/04/2014 Second tattoo
 - 19/06/2014 First basement flood
+- 23/08/2014 Proposed to Erin Barth
