@@ -20,7 +20,8 @@
 - 11/2009-05/2010 IT Manager - GasDay
 - 05/2010-09/2010 Software Developer - Tesch Global
 - 17/06/2010 First met Erin Barth
-- 05/10/2010-23/08/2014 Dating Erin Barth
+- 23/06/2010 First date with Erin Barth (but won't be my "girlfriend")
+- 05/10/2010-23/08/2014 Dating Erin Barth (finally gives in)
 - 03/2011 Bought first car, 2004 Chevy Colorado
 - 06/2012-09/2013 Mobile Application Developer - GoKart Labs, LLC
 - 11/06/2012 Bought 45th Anniversary Edition 2012 Chevrolet Camaro
