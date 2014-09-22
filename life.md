@@ -19,7 +19,8 @@
 - 10/2009-~ Owner Tiny Dragon Apps, LLC
 - 11/2009-05/2010 IT Manager - GasDay
 - 05/2010-09/2010 Software Developer - Tesch Global
-- 05/10/2010-~ Dating Erin Barth
+- 17/06/2010 First met Erin Barth
+- 05/10/2010-23/08/2014 Dating Erin Barth
 - 03/2011 Bought first car, 2004 Chevy Colorado
 - 06/2012-09/2013 Mobile Application Developer - GoKart Labs, LLC
 - 11/06/2012 Bought 45th Anniversary Edition 2012 Chevrolet Camaro
@@ -29,4 +30,4 @@
 - 12/03/2014 Bought first house, 5440 25th Ave S.
 - 23/04/2014 Second tattoo
 - 19/06/2014 First basement flood
-- 23/08/2014 Proposed to Erin Barth
+- 23/08/2014-~ Engaged to Erin Barth
