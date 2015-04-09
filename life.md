@@ -27,7 +27,7 @@
 - 11/06/2012 Bought 45th Anniversary Edition 2012 Chevrolet Camaro
 - 20/06/2013 Bought 2004 Honda VFR 800
 - 15/08/2013 Crashed & Totalled Honda VFR
-- 16/09/2013-31/10/14 Software Engineer - Software for Good
+- 16/09/2013-31/10/2014 Software Engineer - Software for Good
 - 12/03/2014 Bought first house, 5440 25th Ave S.
 - 23/04/2014 Second tattoo
 - 19/06/2014 First basement flood
