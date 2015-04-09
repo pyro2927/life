@@ -25,6 +25,7 @@
 - 03/2011 Bought first car, 2004 Chevy Colorado
 - 06/2012-09/2013 Mobile Application Developer - GoKart Labs, LLC
 - 11/06/2012 Bought 45th Anniversary Edition 2012 Chevrolet Camaro
+- 14/12/2012 Grandfather (Papa) passed away
 - 20/06/2013 Bought 2004 Honda VFR 800
 - 15/08/2013 Crashed & Totalled Honda VFR
 - 16/09/2013-31/10/2014 Software Engineer - Software for Good
