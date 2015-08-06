@@ -34,3 +34,4 @@
 - 19/06/2014 First basement flood
 - 23/08/2014-~ Engaged to Erin Barth
 - 01/11/2014-~ Systems Engineer - EvolveHQ
+- 04/08/2015 Bought 2006 Triumph Speed Triple
